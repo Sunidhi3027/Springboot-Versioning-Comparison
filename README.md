@@ -12,8 +12,11 @@ The goal of this project is to clearly show how Spring Boot 4 reduces complexity
 Springboot-Versioning-Comparison
 
 │
+
 ├── springboot3-versioning → Manual API versioning implementation
+
 ├── springboot4-versioning → Built-in API versioning implementation
+
 └── README.md
 
 
